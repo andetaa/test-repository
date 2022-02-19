@@ -1,0 +1,3 @@
+alias print_num='./../branch_2/print_num.sh'
+alias print_path='./../branch_3/print_path.sh'
+
